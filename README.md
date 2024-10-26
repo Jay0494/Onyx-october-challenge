@@ -1,7 +1,7 @@
 ### Analysis of Employee Satisfaction and Performance at "Onyx Corp"
 ### Project Introduction: Employee Satisfaction and Performance Analysis at Onyx Corp
 
-In this project, I conducted a comprehensive analysis of employee satisfaction and performance at Onyx Corp, a fictional organization. The goal was to gain insights into employee morale, departmental performance, turnover trends, and demographic distribution, ultimately helping the company to make data-driven decisions that could enhance employee retention, job satisfaction, and productivity.
+In this project, I conducted a comprehensive analysis of employee satisfaction and performance at Onyx Corp, a fictional organization. The goal was to gain insights into employee morale, departmental performance, turnover trends, and demographic distribution, ultimately helping the company to make data-driven decisions that could enhance employee retention, job satisfaction, and productivity. 
 
 #### Key Steps in the Project:
 1. **Data Cleaning with Power Query**: 
